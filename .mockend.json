@@ -1,6 +1,6 @@
 {
   "Credit": {
-    "id": "uuid",
+    "id": { "int": { "min": 8888888888, "max": 99999999999 }},
     "status": {
       "string": ["pending"]
     },
