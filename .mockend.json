@@ -3,10 +3,7 @@
     "id": {
       "regexp": "[A-Z][a-z][0-9]{36}"  
     },
-    
-    "status": {
-      "string": "pending"
-    },
+    "status": "pending",
     "custom_data": {}
   }
 }
